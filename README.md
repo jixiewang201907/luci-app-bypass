@@ -8,9 +8,9 @@
 1.  功能与视觉体验增强
 1.  其他大量修复与优化
 
-[TG交流与反馈](https://t.me/opwrts)
+[TG交流与反馈] [https://t.me/sirpdboy_openwrt]
 
-默认集成本插件的固件推荐: [https://github.com/kiddin9/OpenWrt_x86-r2s-r4s](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s)
+默认集成本插件的固件推荐: luci-app-bypass
 
 ![](https://raw.githubusercontent.com/kiddin9/luci-app-bypass/main/screenshot.png)
 
