@@ -8,7 +8,7 @@
 1.  功能与视觉体验增强
 1.  其他大量修复与优化
 
-[TG交流与反馈] [https://t.me/sirpdboy_openwrt]
+
 
 默认集成本插件的固件推荐: luci-app-bypass
 
